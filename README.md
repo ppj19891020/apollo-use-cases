@@ -27,3 +27,5 @@
 	* Apollo支持应用在不同的环境有不同的配置，所以需要配置Apollo Meta信息
 	* 示例代码在`application.properties`或System Property配置了`apollo.meta=http://localhost:8080`，请根据实际部署情况调整该配置
 3. 以上步骤都完成后，就可以参考各子模块的README.md来运行示例项目了
+
+测试本地项目！！！！！！
